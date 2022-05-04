@@ -1,4 +1,5 @@
 # Online doc for the use of pFindStudio softwares
+Please refer to: http://pfindstudiodocs.readthedocs.io/
 
 ### dev
 

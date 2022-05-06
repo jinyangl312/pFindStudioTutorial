@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'pFindStudioDocs'
-copyright = '2022, pFind Team'
+copyright = '2022, pFind Team, http://pfind.org/'
 author = 'pFind Team'
 
 # The full version, including alpha/beta/rc tags

@@ -10,6 +10,7 @@ Welcome to pFindStudioDocs's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   Background Knowledge/index
    pLink 2/index
    About
 

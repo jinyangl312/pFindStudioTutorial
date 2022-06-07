@@ -4,12 +4,15 @@ For further knowledge about what is Computational Proteomics and how search engi
 
 After watching the lecture, you may try to answer the following questions:
 
-About definition:
-- What is MS1 & MS2? How are they generated in a mass spectrometry?
-- What is the definition of various fragment ions?
-- How to interpret the text in .fasta file?
+Definitions in mass spectrometry:
+- What is the typical procedure for the identification of a protein sample?
+- What is MS-1 & MS-2 (MS/MS)? How are they generated in Liquid Chromatography Triple Quadrupole Mass Spectrometry (LC MS/MS)?
+- What is the definition of fragment ions abcxyz?
 
-About search engine:
-- What is the brief procedure for a search engine to identify MS/MS data?
-- What is the purpose to introduce TDA-FDR method?
-- How do open search different from restricted search?
+Main ideas of pepide identification (database search approach):
+- What is the brief procedure for a protein database search engine to identify MS/MS data?
+- How to interpret the text in fasta file? How is fasta file turned into peptide candidates?
+- Given a sequence, how to label peaks in a MS/MS spectrum?
+- How to interfer the existence of a protein from peptides?
+- Why introduce TDA-FDR method, what does it do?
+- What is the main idea of open search mode?

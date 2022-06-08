@@ -12,5 +12,3 @@ The current version is 2.3 which is ~40 times faster than pLink 1.
 
     Installation
     Search
-    Results
-    Appendix

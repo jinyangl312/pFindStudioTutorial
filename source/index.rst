@@ -11,14 +11,6 @@ Welcome to pFindStudioDocs's documentation!
    :caption: Contents:
 
    Background Knowledge/index
+   pFind 3/index
    pLink 2/index
-   About
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   Hints for Homework/index

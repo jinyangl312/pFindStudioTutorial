@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'pFindStudioDocs'
-copyright = '2022, pFind Team, http://pfind.org/'
-author = 'pFind Team'
+project = 'pFindStudioTutorials'
+copyright = '2022, jyl'
+author = 'jyl'
 
 # The full version, including alpha/beta/rc tags
 release = 'v1'

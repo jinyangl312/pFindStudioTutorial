@@ -24,6 +24,6 @@ Given a sequence, how to label peaks in a MS/MS spectrum?
 
 How to interfer the existence of a protein from peptides?
 
-Why control False Discovery Rate (FDR)? How do Target-Decoy Approach (TDA) control FDR?
+Why control False Discovery Rate (FDR)? How does Target-Decoy Approach (TDA) control FDR?
 
-How do open search mode different from restricted search?
+How does open search mode different from restricted search?

@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'pFindStudioTutorials'
+project = 'pFindStudioTutorial'
 copyright = '2022, jyl'
 author = 'jyl'
 

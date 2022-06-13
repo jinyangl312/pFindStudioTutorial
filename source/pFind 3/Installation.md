@@ -1,8 +1,6 @@
 # Installation
 ## Requirement
 
-### Software
-
 Please make sure these requirements are met:
 
 - Operating system: Windows 7 and above, 64 bit version.
@@ -12,7 +10,7 @@ Please make sure these requirements are met:
 
 ## Install pFind
 
-Click pFind.exe and install according to the instruction.
+Download [pFind 3](http://pfind.org/software/pFind/index.html). Click the package and install according to the instruction.
 
 ## Registration
 

@@ -12,4 +12,6 @@ How to check the identified peptides with pBuild?
 
 How to check the chromatogram of peptides with pBuild?
 
+How to check the identified proteins with pBuild?
+
 How to check the coverage of proteins with pBuild?

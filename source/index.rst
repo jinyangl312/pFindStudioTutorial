@@ -12,4 +12,5 @@ Welcome to pFindStudioTutorial's documentation!
 
    Background Knowledge/index
    pFind 3/index
+   pLink 2/index
    Hints for Homework/index

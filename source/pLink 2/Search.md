@@ -7,8 +7,6 @@ For the search by pLink 2, you can refer to the last part (starts from 29:10) of
 
 **MS Data**
 
-Set the extraction of data. **Default setting is recommended.**
-
 Place of Decimals: the precision of MS data.
 
 Precursor Score: parameters for pParse 2.
@@ -23,7 +21,7 @@ Process Number: the allowed number of CPU process for the task. Do not recommend
 
 Add a database: by clicking "Customize Database", pConfig will be called for adding a new database. Click "Add" in pConfig, browse and select a fasta database, rename the database, and click "Save" before close pConfig. By clicking "Add contaminant" we add common contaminant that sometimes occur during the preparation of the sample.
 
-Fixed modifications: fix the modification to all of this amino acid.
+Fixed modifications: fix the modification to all of certain kind of amino acid.
 
 Variable modifications: consider at most three sites in each sequence to have a modification listed in the variable modifications.
 
@@ -34,6 +32,8 @@ By clicking "Compute E-value", pLink will calculate the expetation value for eve
 If you meet any problem, visit [http://forum.pfind.org/forum](http://forum.pfind.org/forum) to read frequently asked questions or ask us directly.
 
 ## Homework
+
+Download the dataset (XLpeplib_Beveridge_QEx-HFX_DSS_R1-3) attached to the article [A synthetic peptide library for benchmarking crosslinking-mass spectrometry search engines for proteins and protein complexes](https://www.nature.com/articles/s41467-020-14608-2/) as well as fasta file from [uniprot](https://www.uniprot.org/downloads) and try to use pLink 2. The link of the dataset occurs in **Data availability** section. Note that you should download with FTP, otherwise [the raw file may be corrupted](http://forum.pfind.org/forum/issue73).
 
 After watching it, you may try to answer the following questions:
 

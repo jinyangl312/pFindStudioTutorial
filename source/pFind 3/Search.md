@@ -8,6 +8,9 @@ For the search by pFind 3, you can refer to the last part (starts from 25:50) of
 If you meet any problem, visit [http://forum.pfind.org/forum](http://forum.pfind.org/forum) to read frequently asked questions or ask us directly.
 
 ## Homework
+
+Download the dataset attached to the article [Cell type– and brain region–resolved mouse brain proteome](https://www.nature.com/articles/nn.4160) as well as fasta file from [uniprot](https://www.uniprot.org/downloads) and try to use pFind 3. The link of the dataset occurs in **Accession codes** section. Note that you should download with FTP, otherwise [the raw file may be corrupted](http://forum.pfind.org/forum/issue73).
+
 After watching it, you may try to answer the following questions:
 
 How to employ a database search with pFind 3?
